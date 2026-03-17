@@ -6,4 +6,4 @@ console.log(null === 0);
 console.log(null >=0)
 
 // comparison convert the null into number == an >= works differently and === check the data types also 
-console.log("2" === 2);
+console.log("2" === 2)
